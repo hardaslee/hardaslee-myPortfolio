@@ -2,6 +2,7 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://hardaslee.github.io/hardaslee-myPortfolio",
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
@@ -17,6 +18,7 @@
         "web-vitals": "^3.1.1"
     },
     "scripts": {
+        
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
@@ -41,5 +43,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^6.1.1"
     }
 }
