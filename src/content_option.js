@@ -87,7 +87,7 @@ const dataportfolio = [{
     },
    
     {
-        img: "http://gamescrafters.berkeley.edu/instructions/i/tictactoe/tictactoe.svg",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/800px-Tic_tac_toe.svg.png",
         name:"Tic Tac Toe Game",
         description: "A simple program that allows you to play tic tac toe with 2 players.",
         link: "https://github.com/hardaslee/TicTacToeGame",
